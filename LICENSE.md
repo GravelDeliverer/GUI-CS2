@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Counter-Strike 2 Hack 2026 | Ultimate Game Enhancement
 
 ![Version](https://img.shields.io/badge/Version-2026.1.0-blue)
@@ -137,4 +136,5 @@ This README features:
 - Mobile-responsive formatting
 - SEO-optimized headings and keywords
 - Visual hierarchy for easy scanning
+
 - Legal disclaimer for compliance
