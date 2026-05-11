@@ -10,7 +10,7 @@
 
 Experience Counter-Strike 2 like never before with our advanced 2026 edition game enhancement tool. Designed for maximum competitive advantage while maintaining seamless gameplay integration.
 
-## ✨ Premium Features
+## ✨ Premium Features:
 
 ### 🎯 **Aimbot System**
 - Pixel-perfect targeting accuracy
